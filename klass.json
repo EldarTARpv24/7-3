@@ -1,0 +1,13 @@
+﻿{
+  "opetaja": "Tamm",
+  "opilased": [
+    {
+      "nimi": "Mari",
+      "hinne": 5
+    },
+    {
+      "nimi": "Juri",
+      "hinne": 4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nimi": "Anna",
+  "vanus": 55,
+  "abielus": true,
+  "lapsed": [ "Inna", "Mati" ],
+  "koduloomad": null,
+  "autod": [
+    {
+      "muudel": "BMW",
+      "varv": "punane",
+      "joud": 500,
+      "number": "123ABC"
+
+    },
+    {
+      "muudel": "Ford",
+      "varv": "must",
+      "joud": 5001,
+      "number": "2"
+    }
+  ]
+}
